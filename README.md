@@ -25,3 +25,13 @@ Project Name: Olist Store Analysis Domain: E-Commerce Dataset Name: Total 9 file
 
 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝:-
 1) Power BI, Tableau, MySQL, Excel.
+
+Power BI Dashboard:
+
+![OLIST PBI](https://github.com/user-attachments/assets/69ddd9c6-52f4-480b-896b-663dcd7484ab)
+
+
+Tableau Tashboard:
+
+![Olist Tableau](https://github.com/user-attachments/assets/213faa6c-042b-4607-a07f-6bd34e27cf16)
+
